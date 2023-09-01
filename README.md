@@ -11,9 +11,14 @@ Descrição: Desenvolva uma aplicação WEB utilizando a Minimal API do .NET Cor
 Cada feedback deve ter as seguintes propriedades:
 
 IdFeedback: inteiro;
+
 NomeCliente: string;
+
 EmailCliente: string (opcional);
+
 DataFeedback: DateTime;
+
 Comentário: string;
+
 Avaliação: inteiro (uma escala de 1 a 5, onde 1 é "Muito insatisfeito" e 5 é "Muito satisfeito").
 A aplicação deve permitir que os usuários insiram seus feedbacks através de um formulário simples. Além disso, deve ser possível visualizar todos os feedbacks em uma lista, bem como editar ou excluir um feedback específico.
