@@ -2,7 +2,7 @@
 Atividade 3 de tecnologia em desenvolvimento de sistemas 
 ----------------------------------------------------------------------------------------------------------
 Para executar a aplicação : Use dotnet watch run
--------------------------------------------------------------------------------------------------------
+
 Tema: Gestão de Feedbacks de Clientes com Minimal API e ASP.NET Razor Pages
 
 Descrição: Desenvolva uma aplicação WEB utilizando a Minimal API do .NET Core que permita o gerenciamento de feedbacks deixados por clientes sobre um serviço ou produto específico. A aplicação deve permitir o cadastro, consulta, atualização e exclusão de feedbacks, integrando-se com ASP.NET Razor Pages. Utilize uma coleção em memória para armazenar os dados temporariamente.
